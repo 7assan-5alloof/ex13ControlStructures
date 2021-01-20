@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611157583 source:/home/hassan/code/cpp/IOI/ex13ControlStructures/main.cpp
+	<iostream>
+	<string>
+
